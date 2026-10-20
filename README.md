@@ -26,7 +26,5 @@ I'm continuously improving my front-end skills by building projects, fixing bugs
 
 **Contact**
 - GitHub: [armanhossain81155](https://github.com/armanhossain81155)
-- LinkedIn: [Arman Hossain](https://www.linkedin.com/in/YOUR-REAL-ID/)
-- Email: [your-public-email, optional]
-
-[existing Top Languages line stays here]
+- LinkedIn: [Arman Hossain](https://www.linkedin.com/in/arman-hossain-81155u/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=armanhossain81155)](https://github.com/anuraghazra/github-readme-stats)
