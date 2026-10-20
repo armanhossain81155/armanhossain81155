@@ -1,19 +1,27 @@
 
 ![I am  Web Developer](https://media-exp1.licdn.com/dms/image/C5616AQFW8BS95Ov2sg/profile-displaybackgroundimage-shrink_200_800/0/1623902246722?e=1635984000&v=beta&t=eAI_nP6K9UbRDwiESKOjAm8jGln7b99pDduZ_orhuRY)
 
-### Hi there 👋, My name is Arman Hossain
-#### I am  Web Developer
+# Hi, I'm Arman Hossain 👋
 
+### Front-End Developer | HTML, CSS & JavaScript
 
-I’m a Front End Web developer who is passionate about making error-free websites with 100% client satisfaction . I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind.
+I'm a front-end developer focused on building responsive, user-friendly websites using HTML, CSS, and JavaScript.
 
-Skills: EXPRESS JS/NODE JS/MONGO DB/REACT/BOOTSTRAP / JS / HTML / CSS
+**What I work with**
+- HTML5
+- CSS3 and Responsive Web Design
+- JavaScript (DOM manipulation, API integration, localStorage, and form validation)
+- Git and GitHub
 
-- 🔭 I’m currently working on Fiverr & Upwork. 
-- 🌱 I’m currently learning Javascript 
-- 👯 I’m looking to collaborate on  Github 
-- 💬 Ask me about Web Development 
+**Projects**
+- Weather App
+- E-commerce Store
+- Form Validation Projects
+- Personal Portfolio Website
 
+I'm continuously improving my front-end development skills by building projects, fixing bugs, and learning modern web development practices.
+
+📌 Explore my repositories to see my projects and progress.
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/armanhossain81155)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/arman-hossain-81155u//)  
 
